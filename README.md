@@ -10,8 +10,11 @@ Self-Taught JavaScript Developer with a strong drive and willingness to learn ne
 - 🌱 I’m currently learning **MERN Stack & DSA**.
 - 👯 I’m looking to collaborate with other Developers.
 - 🥅 Goals: Contribute more to Open Source projects.
-- 📫 How to reach me: DevGuy1003 in Telegram
 - ⚡ Fun fact: I like problem solving and I'm a sportsman.
+
+### 🤝🏻 Connect with Me
+- 📫 Blackhole1003 in Telegram
+- 📫 live:.cid.6eaec8d32301f9f8 in Skype
 
 ### 🛠 Technologies & Skills
 
