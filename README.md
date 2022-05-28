@@ -13,16 +13,6 @@ Self-Taught JavaScript Developer with a strong drive and willingness to learn ne
 - 📫 How to reach me: DevGuy1003 in Telegram
 - ⚡ Fun fact: I like problem solving and I'm a sportsman.
 
-### 🤝🏻 Connect with Me
-&nbsp; &nbsp; &nbsp;
-[![vikasganiga05 | Twitter][twitter-image]][twitter-link]
-&nbsp; &nbsp;
-[![vikasganiga05 | Instagram][instagram-image]][instagram-link]
-&nbsp; &nbsp;
-[![vikasganiga05 | LinkedIn][linkedin-image]][linkedin-link]
-&nbsp; &nbsp;
-[![vikasganiga05 | LinkTree][linktree-image]][linktree-link]
-
 ### 🛠 Technologies & Skills
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222222)
