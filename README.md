@@ -1,6 +1,6 @@
 # Hi, I'm Jackson Bernier <img src="https://raw.githubusercontent.com/vikasganiga05/vikasganiga05/master/assets/wave.gif" width="30px">
 
-I'm a Full Stack Developer, Tech & Sports Enthusiast based in Mangalore, India. specializing in building (and occasionally designing) exceptional websites, applications, and everything in between. I have a huge passion in developing applications using PHP & MySQL, and now it is totally shifting to the trending MERN (MongoDB, ExpressJS, ReactJS, NodeJS) Stack.
+I'm a Full Stack Developer and Blockchain Developer based in Singapore. specializing in building (and occasionally designing) exceptional websites, applications, and everything in between. I have a huge passion in developing applications using PHP & MySQL, and now it is totally shifting to the trending MERN (MongoDB, ExpressJS, ReactJS, NodeJS) Stack.
 
 Self-Taught JavaScript Developer with a strong drive and willingness to learn new things. I love creating simple and effective UI that optimizes user’s experience. My personal mission is to further my specialization in full-stack development, contribute to open-source projects, solve difficult problems, work with amazing people and develop cool products. I would also like to make a huge impact in the full-stack industry.
 
