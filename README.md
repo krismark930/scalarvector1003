@@ -10,8 +10,7 @@ Self-Taught JavaScript Developer with a strong drive and willingness to learn ne
 - 🌱 I’m currently learning **MERN Stack & DSA**.
 - 👯 I’m looking to collaborate with other Developers.
 - 🥅 Goals: Contribute more to Open Source projects.
-- 📫 How to reach me: **Twitter - [@vikasganiga05][twitter-link]**
-- 💬 Ask me about anything [here](https://github.com/vikasganiga05/vikasganiga05/discussions)
+- 📫 How to reach me: DevGuy1003 in Telegram
 - ⚡ Fun fact: I like problem solving and I'm a sportsman.
 
 ### 🤝🏻 Connect with Me
