@@ -6,8 +6,8 @@ Self-Taught JavaScript Developer with a strong drive and willingness to learn ne
 
 #### Here are a few things you should know about me:
 
-- 🔭 I’m currently working on **something cool :wink:**
-- 🌱 I’m currently learning **MERN Stack & DSA**.
+- 🔭 I’m currently working as **MERN Stack & Blockchain Developer**.
+- 🌱 I’m currently learning **something cool :wink:**
 - 👯 I’m looking to collaborate with other Developers.
 - 🥅 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I like problem solving and I'm a sportsman.
