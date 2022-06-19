@@ -1,14 +1,14 @@
-<h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="grudev325"> I'm <a href="https://github.com/GruDev325" color="white" target="_blank">Jackson Bernier</a></h1>
- <img src="https://gpvc.arturio.dev/GruDev325" alt="Profile views" align='right'/> 
+<h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="JacksonBernier1003"> I'm <a href="https://github.com/JacksonBernier1003" color="white" target="_blank">Jackson Bernier</a></h1>
+ <img src="https://gpvc.arturio.dev/JacksonBernier1003" alt="Profile views" align='right'/> 
  <a href="https://github.com/JacksonBernier1003/JacksonBernier1003/"> </a>
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=Blockchain+%7C%7C+Defi+%7C%7C+NFT+Game+Enthusiastic;React+%7C%7C+Vue+%7C%7C+Python+%7C%7C+Django+Enthusiastic;Learning+New+Things+Everyday;Never+Stop+Learning!&center=true&width=800&height=45" alt="grudev325">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=Blockchain+%7C%7C+Defi+%7C%7C+NFT+Game+Enthusiastic;React+%7C%7C+Vue+%7C%7C+Python+%7C%7C+Django+Enthusiastic;Learning+New+Things+Everyday;Never+Stop+Learning!&center=true&width=800&height=45" alt="JacksonBernier1003">
 </p>
 <hr/>
 
-<img align="right" alt="GIF" src="https://github.com/GruDev325/GruDev325/blob/main/image/grudev325.gif" width="450" height="270" />
+<img align="right" alt="GIF" src="https://github.com/JacksonBernier1003/JacksonBernier1003/blob/main/image/JacksonBernier1003.gif" width="450" height="270" />
 
 ![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
@@ -41,19 +41,19 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=GruDev325&theme=tokyonight_duo&hide_border=true" alt="grudev325" />
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=JacksonBernier1003&theme=tokyonight_duo&hide_border=true" alt="JacksonBernier1003" />
   <p align="center"> Stay hungry, Stay foolish 🔥 </p>
 </p>
 
 ## ⚡ Recent GitHub Activity
 <br/>
- <img alt="GruDev325's's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GruDev325&custom_title=GruDev325's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
+ <img alt="JacksonBernier1003's's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JacksonBernier1003&custom_title=JacksonBernier1003's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
 <br/>
 
 ## 📊 Github Stats
 
-<img align="left" alt="GruDev325's's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GruDev325&show_icons=true&include_all_commits=true&count_private=true&icon_color=fff&text_color=fff&bg_color=DEG,000,000,001,002,003" height="170px"/>
-<img align="right" alt="GruDev325's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GruDev325&layout=compact&langs_count=8&theme=dark&hide_border=false&title_color=F85D7F&icon_color=F8D866" height="170px"/>
+<img align="left" alt="JacksonBernier1003's's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JacksonBernier1003&show_icons=true&include_all_commits=true&count_private=true&icon_color=fff&text_color=fff&bg_color=DEG,000,000,001,002,003" height="170px"/>
+<img align="right" alt="JacksonBernier1003's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonBernier1003&layout=compact&langs_count=8&theme=dark&hide_border=false&title_color=F85D7F&icon_color=F8D866" height="170px"/>
 
 
 
