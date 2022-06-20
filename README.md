@@ -8,7 +8,7 @@
 </p>
 <hr/>
 
-<img align="right" alt="GIF" src="https://github.com/JacksonBernier1003/JacksonBernier1003/blob/main/image/JacksonBernier1003.gif" width="450" height="270" />
+
 
 ![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
