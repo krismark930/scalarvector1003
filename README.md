@@ -1,10 +1,10 @@
-<h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="JacksonBernier1003"> I'm <a href="https://github.com/JacksonBernier1003" color="white" target="_blank">Jackson Bernier</a></h1>
- <img src="https://gpvc.arturio.dev/JacksonBernier1003" alt="Profile views" align='right'/> 
- <a href="https://github.com/JacksonBernier1003/JacksonBernier1003/"> </a>
+<h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="JacksonBernier523"> I'm <a href="https://github.com/JacksonBernier523" color="white" target="_blank">Jackson Bernier</a></h1>
+ <img src="https://gpvc.arturio.dev/JacksonBernier523" alt="Profile views" align='right'/> 
+ <a href="https://github.com/JacksonBernier523/JacksonBernier523/"> </a>
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=Blockchain+%7C%7C+Defi+%7C%7C+NFT+Game+Enthusiastic;React+%7C%7C+Vue+%7C%7C+Python+%7C%7C+Django+Enthusiastic;Learning+New+Things+Everyday;Never+Stop+Learning!&center=true&width=800&height=45" alt="JacksonBernier1003">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=Blockchain+%7C%7C+Defi+%7C%7C+NFT+Game+Enthusiastic;React+%7C%7C+Vue+%7C%7C+Python+%7C%7C+Django+Enthusiastic;Learning+New+Things+Everyday;Never+Stop+Learning!&center=true&width=800&height=45" alt="JacksonBernier523">
 </p>
 <hr/>
 
