@@ -50,10 +50,7 @@
  <img alt="JacksonBernier523's's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JacksonBernier523&custom_title=JacksonBernier523's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
 <br/>
 
-## 📊 Github Stats
 
-<img align="left" alt="JacksonBernier523's's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JacksonBernier523&show_icons=true&include_all_commits=true&count_private=true&icon_color=fff&text_color=fff&bg_color=DEG,000,000,001,002,003" height="170px"/>
-<img align="right" alt="JacksonBernier523's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonBernier523&layout=compact&langs_count=8&theme=dark&hide_border=false&title_color=F85D7F&icon_color=F8D866" height="170px"/>
 
 
 
