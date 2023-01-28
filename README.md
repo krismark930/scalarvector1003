@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=Blockchain+%7C%7C+Defi+%7C%7C+NFT+Game+Enthusiastic;React+%7C%7C+Vue+%7C%7C+Python+%7C%7C+Django+Enthusiastic;Learning+New+Things+Everyday;Never+Stop+Learning!&center=true&width=800&height=45" alt="YangKaiming1003">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=Blockchain+%7C%7C+Defi+%7C%7C+NFT+Game+Enthusiastic;React+%7C%7C+Vue+%7C%7C+Python+%7C%7C+Django+Enthusiastic;Learning+New+Things+Everyday;Never+Stop+Learning!&center=true&width=800&height=45" alt="scalarvector1003">
 </p>
 <hr/>
 
@@ -36,13 +36,13 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=YangKaiming1003&theme=tokyonight_duo&hide_border=true" alt="YangKaiming1003" />
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=scalarvector1003&theme=tokyonight_duo&hide_border=true" alt="scalarvector1003" />
   <p align="center"> Stay hungry, Stay foolish 🔥 </p>
 </p>
 
 ## ⚡ Recent GitHub Activity
 <br/>
- <img alt="YangKaiming1003's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=YangKaiming1003&custom_title=YangKaiming1003's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
+ <img alt="scalarvector1003's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=scalarvector1003&custom_title=scalarvector1003's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
 <br/>
 
 
